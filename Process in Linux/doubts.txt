@@ -1,0 +1,2 @@
+what does a mediun term scheduer do? what is meant by removing from memory? 
+from the diagram in the book it is clear that it handles swapped out processes but where do they reside if not in memory?
